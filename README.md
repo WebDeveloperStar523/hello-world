@@ -1,2 +1,3 @@
 # hello-world
-public repository
+Hello
+I am a senior Ruby on Rails developer having rich experiences.
